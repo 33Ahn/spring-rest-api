@@ -5,16 +5,16 @@ Project’s title: Employee Management Application
 My project is a Spring Boot project that performs getting all employees information, adding new employees, updating and deleting the existing employees. I chose this project because I wanted to understand how applications talk to each other and learn how to design the architecture and thought this would be a good project to operate CRUD operations.
 	
 What I learned
-	Through building this project, I have a better understanding of how applications talk to each other and how clients’ 		requests are processed. It was complex and quite challenging, but I want to know how this magical communication works 		between clients and servers.
+Through building this project, I have a better understanding of how applications talk to each other and how clients’ 		requests are processed. It was complex and quite challenging, but I want to know how this magical communication works 		between clients and servers.
 
-	Also I learned that I need to start something even if it’s small. The hardest part of the project was I didn’t know what to 	    build, thinking I have to build something project-worthy. That halted me for some time and as a very beginner in Java, I 	     think it’s OK to start something very small. And there are so many dependencies to inject and the folder structure was 		overwhelming in the beginning.
+Also I learned that I need to start something even if it’s small. The hardest part of the project was I didn’t know what to 	    build, thinking I have to build something project-worthy. That halted me for some time and as a very beginner in Java, I 	     think it’s OK to start something very small. And there are so many dependencies to inject and the folder structure was 		overwhelming in the beginning.
 
-	Lastly, I faced the  issues with my computer, intelliJ, and my wireless mouse erasing everything on its own. And the 	  	  applications release updated versions frequently, so I had to  search for the changes in the updated version. There are 	  almost always unexpected surprises on the way and I learned that I accept those and be ready for them.
+Lastly, I faced the  issues with my computer, intelliJ, and my wireless mouse erasing everything on its own. And the 	  	  applications release updated versions frequently, so I had to  search for the changes in the updated version. There are 	  almost always unexpected surprises on the way and I learned that I accept those and be ready for them.
 
-    Technologies used
-	For the frontend side, I used VS code, React, JavaScript, Bootstrap 4.0, Axios HTTP library, NodeJS and npm, Create React 	  App CLI.
-	For the server side, I used IntelliJ initially, Eclipse, Spring Boot, SpringData JPA(Hibernate), Maven, JDK, Embedded 	           Tomcat, MySQL database.
-	
+Technologies used
+For the frontend side, I used VS code, React, JavaScript, Bootstrap 4.0, Axios HTTP library, NodeJS and npm, Create React 	  App CLI.
+For the server side, I used IntelliJ initially, Eclipse, Spring Boot, SpringData JPA(Hibernate), Maven, JDK, Embedded 	           Tomcat, MySQL database.
+
 How I built it
 
 	1.Create spring project 	spring initializr https://start.spring.io/ and add 4 dependencies
