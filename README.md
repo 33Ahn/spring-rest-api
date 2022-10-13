@@ -11,9 +11,9 @@ What I learned
 
 	Lastly, I faced the  issues with my computer, intelliJ, and my wireless mouse erasing everything on its own. And the 	  	  applications release updated versions frequently, so I had to  search for the changes in the updated version. There are 	  almost always unexpected surprises on the way and I learned that I accept those and be ready for them.
 
-Technologies used
+    Technologies used
 	For the frontend side, I used VS code, React, JavaScript, Bootstrap 4.0, Axios HTTP library, NodeJS and npm, Create React 	  App CLI.
-	For the server side, I used IntelliJ initially, Eclipse, Spring Boot, SpringData JPA(Hibernate), Maven, JDK, Embedded 	  Tomcat, MySQL database.
+	For the server side, I used IntelliJ initially, Eclipse, Spring Boot, SpringData JPA(Hibernate), Maven, JDK, Embedded 	           Tomcat, MySQL database.
 	
 How I built it
 
